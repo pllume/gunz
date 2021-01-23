@@ -1,0 +1,25 @@
+function gunz:tag
+execute as @a[scores={gunz_tag=1}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:ak/sneak_ak
+execute as @a[scores={gunz_tag=2}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:ak/unsneak_ak
+execute as @a[scores={gunz_tag=3}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:scar/sneak_scar
+execute as @a[scores={gunz_tag=4}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:scar/unsneak_scar
+execute as @a[scores={gunz_tag=5}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:famas/sneak_famas
+execute as @a[scores={gunz_tag=6}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:famas/unsneak_famas
+execute as @a[scores={gunz_tag=7}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:g3/sneak_g3
+execute as @a[scores={gunz_tag=8}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:g3/unsneak_g3
+execute as @a[scores={gunz_tag=9}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:m1911/sneak_m1911
+execute as @a[scores={gunz_tag=10}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:m1911/unsneak_m1911
+execute as @a[scores={gunz_tag=11}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:deagle/sneak_deagle
+execute as @a[scores={gunz_tag=12}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:deagle/unsneak_deagle
+execute as @a[scores={gunz_tag=13}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:luger/sneak_luger
+execute as @a[scores={gunz_tag=14}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:luger/unsneak_luger
+execute as @a[scores={gunz_tag=15}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:rem870/sneak_rem870
+execute as @a[scores={gunz_tag=16}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:rem870/unsneak_rem870
+execute as @a[scores={gunz_tag=17}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:saiga/sneak_saiga
+execute as @a[scores={gunz_tag=18}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:saiga/unsneak_saiga
+execute as @a[scores={gunz_tag=19}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:ump/sneak_ump
+execute as @a[scores={gunz_tag=20}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:ump/unsneak_ump
+execute as @a[scores={gunz_tag=21}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:mp5/sneak_mp5
+execute as @a[scores={gunz_tag=22}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:mp5/unsneak_mp5
+execute as @a[scores={gunz_tag=23}] at @s positioned ~ ~1.51 ~ unless entity @s[dx=0] run function gunz:thompson/sneak_thompson
+execute as @a[scores={gunz_tag=24}] at @s positioned ~ ~1.51 ~ if entity @s[dx=0] run function gunz:thompson/unsneak_thompson

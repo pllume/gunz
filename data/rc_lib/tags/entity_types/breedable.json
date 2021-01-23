@@ -1,0 +1,21 @@
+{
+  "values": [
+    "#rc_lib:cat",
+    "#rc_lib:cow",
+    "#rc_lib:horse",
+    "#rc_lib:llama",
+    "minecraft:bee",
+    "minecraft:chicken",
+    "minecraft:donkey",
+    "minecraft:hoglin",
+    "minecraft:panda",
+    "minecraft:parrot",
+    "minecraft:pig",
+    "minecraft:polar_bear",
+    "minecraft:rabbit",
+    "minecraft:sheep",
+    "minecraft:strider",
+    "minecraft:villager",
+	"minecraft:wolf"
+  ]
+}

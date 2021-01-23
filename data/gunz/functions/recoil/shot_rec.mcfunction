@@ -1,0 +1,11 @@
+execute if score x gunz_shotgun matches -1 run function gunz:recoil/x-1
+execute if score x gunz_shotgun matches -2 run function gunz:recoil/x-2
+execute if score x gunz_shotgun matches -3 run function gunz:recoil/x-3
+execute if score x gunz_shotgun matches -4 run function gunz:recoil/x-4
+execute if score x gunz_shotgun matches -5 run function gunz:recoil/x-5
+execute if score x gunz_shotgun matches 0 run function gunz:recoil/x0
+execute if score x gunz_shotgun matches 1 run function gunz:recoil/x1
+execute if score x gunz_shotgun matches 2 run function gunz:recoil/x2
+execute if score x gunz_shotgun matches 3 run function gunz:recoil/x3
+execute if score x gunz_shotgun matches 4 run function gunz:recoil/x4
+execute if score x gunz_shotgun matches 5 run function gunz:recoil/x5

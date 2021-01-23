@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#rc_lib:horse",
+	"#rc_lib:bearhog",
+    "minecraft:donkey",
+    "minecraft:iron_golem",
+    "minecraft:spider"
+  ]
+}

@@ -1,0 +1,11 @@
+execute if score @s gunz_tag matches 1..2 run scoreboard players operation @s gunz_delay = ak_delay gunz_stat
+execute if score @s gunz_tag matches 3..4 run scoreboard players operation @s gunz_delay = scar_delay gunz_stat
+execute if score @s gunz_tag matches 5..6 run scoreboard players operation @s gunz_delay = famas_delay gunz_stat
+execute if score @s gunz_tag matches 9..10 run scoreboard players operation @s gunz_delay = m1911_delay gunz_stat
+execute if score @s gunz_tag matches 11..12 run scoreboard players operation @s gunz_delay = deagle_delay gunz_stat
+execute if score @s gunz_tag matches 13..14 run scoreboard players operation @s gunz_delay = luger_delay gunz_stat
+execute if score @s gunz_tag matches 15..16 run scoreboard players operation @s gunz_delay = rem870_delay gunz_stat
+execute if score @s gunz_tag matches 17..18 run scoreboard players operation @s gunz_delay = saiga_delay gunz_stat
+execute if score @s gunz_tag matches 19..20 run scoreboard players operation @s gunz_delay = ump_delay gunz_stat
+execute if score @s gunz_tag matches 21..22 run scoreboard players operation @s gunz_delay = mp5_delay gunz_stat
+execute if score @s gunz_tag matches 23..24 run scoreboard players operation @s gunz_delay = thompson_delay gunz_stat

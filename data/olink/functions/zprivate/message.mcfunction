@@ -1,0 +1,1 @@
+tellraw @a[gamemode=creative] {"text":"[ Obj Linker V1.0] \u27a4","color":"gold","clickEvent":{"action":"run_command","value":"/function olink:zprivate/menu"},"hoverEvent":{"action":"show_text","value":"Link entities together for multiplayer compatability!"}}

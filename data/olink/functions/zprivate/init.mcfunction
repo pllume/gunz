@@ -1,0 +1,1 @@
+scoreboard objectives add o_uuid dummy
